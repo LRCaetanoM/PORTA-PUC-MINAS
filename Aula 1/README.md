@@ -2,6 +2,7 @@
 
 [Slides](https://docs.google.com/presentation/d/16xaebVQ7qPBMER_ktvpxDzGjJ_Z_QTrInOA_qMcFLNY/edit?usp=sharing)  
 [Exercicios](https://github.com/LRCaetanoM/PORTA-PUC-MINAS/blob/main/Aula%201/PORTA%20-%20AULA1.xlsx)  
+[Exercicio dataset de música](https://github.com/LRCaetanoM/PORTA-PUC-MINAS/blob/main/Aula%201/dataset-spotify-v1.xlsx)  
 [Roteiro dos exercicios](https://github.com/LRCaetanoM/PORTA-PUC-MINAS/blob/main/Aula%201/Roteiro%20de%20aula%201.pdf)  
 
 ## Objetivos da aula:
