@@ -4,6 +4,7 @@
 [Exercicios](https://github.com/LRCaetanoM/PORTA-PUC-MINAS/blob/main/Aula%201/PORTA%20-%20AULA1.xlsx)  
 [Exercicio dataset de música](https://github.com/LRCaetanoM/PORTA-PUC-MINAS/blob/main/Aula%201/dataset-spotify-v1.xlsx)  
 [Roteiro dos exercicios](https://github.com/LRCaetanoM/PORTA-PUC-MINAS/blob/main/Aula%201/Roteiro%20de%20aula%201.pdf)  
+[Drive com os materiais](https://drive.google.com/drive/folders/1Vju22upIHuHOeMVU8OAy4jwAhrIbRz7F?usp=sharing)  
 
 ## Objetivos da aula:
 O que é uma planilha/como funciona  
