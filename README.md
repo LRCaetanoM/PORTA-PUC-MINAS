@@ -12,6 +12,7 @@ Bem-vindo ao repositório sobre o projeto PORTA! Neste repositório contém todo
 ## Plano de aula
 
 O [Plano de aula](https://docs.google.com/document/d/1GjWtR2y848QPZjsFHReZMJL8oS6mKMIk-Y_TwFTV5oA/edit) possui detalhado o que se planeja dar em cada aula e a explicação das matérias.
+[Plano de aula apoio](https://docs.google.com/document/d/1d3Xs1ZBSAoXraccpBcAfpJ8A53y5w3LdPXuCZWsd5MQ/edit?usp=sharing) é o plano de aula antigo, mas apresenta explicação detalhada de partes do excel que planejavamos apresentar
 
 ## Dataset
 
