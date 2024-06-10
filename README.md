@@ -18,6 +18,8 @@ O [Plano de aula](https://docs.google.com/document/d/1GjWtR2y848QPZjsFHReZMJL8oS
 
 O [DataSet](https://www.kaggle.com/datasets/nelgiriyewithana/top-spotify-songs-2023) utilizado para a atividade dos alunos, eles irão por em prática tudo que vem aprendendo tratando uma base do kaggle que possui dados sobre as músicas mais ouvidas do ano de 2023.
 
+[Dataset para os alunos](https://github.com/lay127/PORTA/blob/main/dataset-spotify-v1.xlsx), aqui contém o repositório para os alunos com o dataset do spotify.
+
 ---
 
 Esses materiais foram feitos por Layla Silva e Lucas Caetano para a utilização no projeto porta, para serem apresentados por Julio Lage e Rhudson Douglas sob supervisão do Hugo Bastos de Paula e Gabriel.
