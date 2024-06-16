@@ -9,6 +9,10 @@ Bem-vindo ao repositório sobre o projeto PORTA! Neste repositório contém todo
 [Aula 3 (17/06)](https://github.com/LRCaetanoM/PORTA-PUC-MINAS/tree/main/Aula%203)  
 [Aula 4 (24/06)](https://github.com/LRCaetanoM/PORTA-PUC-MINAS/tree/main/Aula%204)  
 
+## Chamada
+
+[Lista de acompanhamento](https://docs.google.com/spreadsheets/d/1GgwJUad8YSwbfTmFiJqT1OQs75_AOUrzOkfwUzHjVgE/edit?usp=sharing) dos meninos que estão participando do projeto PORTA. Anotação da participação de cada aluno, frequencia e faça as observações que julgarem necessárias.
+
 ## Plano de aula
 
 O [Plano de aula](https://docs.google.com/document/d/1GjWtR2y848QPZjsFHReZMJL8oS6mKMIk-Y_TwFTV5oA/edit) possui detalhado o que se planeja dar em cada aula e a explicação das matérias.  
