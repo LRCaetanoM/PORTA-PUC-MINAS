@@ -1,12 +1,11 @@
 # Aula nº: 2º
 
-[Slides](https://docs.google.com/presentation/d/1Fjwq0FEMwftnM-kNwzw1BCppqDFXmOmAlPlk8tm1N54/edit?usp=sharing) 
+[Slides](https://docs.google.com/presentation/d/1Fjwq0FEMwftnM-kNwzw1BCppqDFXmOmAlPlk8tm1N54/edit?usp=sharing)  
 [Exercicio dataset de música](https://github.com/LRCaetanoM/PORTA-PUC-MINAS/blob/main/Aula%202/dataset-spotify-v1.xlsx)  
 [Roteiro Segunda Aula](https://docs.google.com/document/d/1sd4PZCvvjh7KGvcqP2RTEh2wTeJChpCh33GeR1ffbbo/edit?usp=sharing)  
 
 ## Objetivos da aula:
 Tabela dinâmica, sumarização
-Criação de gráficos
 
 ## Estrutura/Aprendizagem:
 ### Tabela dinâmica:
@@ -17,10 +16,10 @@ Depois de selecionar a planilha toda com Ctrl + T e ir em Inserir tabela dinâmi
 
 Abrindo a parte da tabela dinâmica abre a parte campos da tabela, que arrastando o título das colunas os dados aparecem os dados, conforme você adiciona nos campos de acordo com sua função:
 
-Linha: é usado para agrupar dados em linhas;
-Coluna é usado para agrupar dados em colunas;
-Valor é usado para calcular valores; 
-Filtro é usado para filtrar dados com base em um critério específico.
+Linha: é usado para agrupar dados em linhas;  
+Coluna é usado para agrupar dados em colunas;  
+Valor é usado para calcular valores;  
+Filtro é usado para filtrar dados com base em um critério específico.  
 
 Inserindo um dado em valor e indo na setinha ao lado do nome do item recém colocado é possível mudar como os dados vão ser calculados, por padrão vem Contagem, mas é possível mudar para soma, média entre outros.
 
