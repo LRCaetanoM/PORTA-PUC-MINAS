@@ -26,4 +26,4 @@ O [DataSet](https://www.kaggle.com/datasets/nelgiriyewithana/top-spotify-songs-2
 
 ---
 
-Esses materiais foram feitos por Layla Silva e Lucas Caetano para a utilização no projeto porta, para serem apresentados por Julio Lage e Rhudson Douglas sob supervisão do Hugo Bastos de Paula e Gabriel.
+Esses materiais foram feitos por Layla Silva, Lucas Caetano e Rhudson Douglas para a utilização no projeto porta, para serem apresentados por Julio Lage e Rhudson Douglas sob supervisão do Hugo Bastos de Paula e Gabriel Barbosa da Fonseca.
