@@ -2,7 +2,7 @@
 
 [Slides](https://docs.google.com/presentation/d/1Fjwq0FEMwftnM-kNwzw1BCppqDFXmOmAlPlk8tm1N54/edit?usp=sharing)  
 [Exercicio dataset de música](https://github.com/LRCaetanoM/PORTA-PUC-MINAS/blob/main/Aula%202/dataset-spotify-v1.xlsx)  
-[Roteiro Segunda Aula](https://docs.google.com/document/d/1sd4PZCvvjh7KGvcqP2RTEh2wTeJChpCh33GeR1ffbbo/edit?usp=sharing)  
+[Roteiro Terceira Aula](https://docs.google.com/document/d/1TCqJsl0Z1yhxAkBFp6D7UROQ0y8_g8w2DchIzZ9Qg7g/edit?usp=sharing)  
 
 ## Objetivos da aula:
 Tabela dinâmica, sumarização
